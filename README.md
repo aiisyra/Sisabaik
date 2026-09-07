@@ -20,7 +20,4 @@ SisaBaik adalah proyek berkembang pada mata kuliah pengebambangan Web. Aplikasi 
 
 Buka folder proyek di Visual Studio Code, lalu tampilkan 'index.html' menggunakan Live Preview atau browser. Pada tahap ini, formulir hanya merupakan prototipe HTML: data belum disimpan ke server atau basis data.
 
-## Integritas akademik
-
-Mahasia was berke menielaska seti elemen a a triat yang diguat tidak diperkenankan.# sisabaik
 
