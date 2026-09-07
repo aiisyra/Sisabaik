@@ -5,3 +5,5 @@ I.env.example
 .DS Store
 Thumbs.db
 *.log
+.DS_Store
+**/ .DS_Store
