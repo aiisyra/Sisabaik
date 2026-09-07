@@ -23,5 +23,4 @@ Buka folder proyek di Visual Studio Code, lalu tampilkan 'index.html' menggunaka
 ## Integritas akademik
 
 Mahasia was berke menielaska seti elemen a a triat yang diguat tidak diperkenankan.# sisabaik
-# sisabaik
 
