@@ -54,12 +54,12 @@ function renderKartu(data, wadah, status, keranjang) {
         const artikel = document.createElement("article");
         artikel.className = "offer-card";
         artikel.innerHTML = `
-            <div class="offer-card__visual" aria-hidden="true"></div>
-            <div class="offer-card__content">
+            <div class="offer-card_visual" aria-hidden="true"></div>
+            <div class="offer-card_content">
                 <span class="badge">${item.labelkategori}</span>
                 <h3>${item.nama}</h3>
-                <p class="offer-card__meta">${item.penyedia} . ${item.stok} ${item.satuan}</p>
-                <p class="offer-card__price"><del>${rupiah.format(item.hargaNormal)}</del> 
+                <p class="offer-card_meta">${item.penyedia} . ${item.stok} ${item.satuan}</p>
+                <p class="offer-card_price"><del>${rupiah.format(item.hargaNormal)}</del> 
                 <strong>${item.hargaPenawaran === 0 ? "Tanpa biaya" : rupiah.format(item.hargaPenawaran)}</strong></p>
             <button class="button" type="button" data-id="${item.id}">Tambah</button>
         </div>`;
